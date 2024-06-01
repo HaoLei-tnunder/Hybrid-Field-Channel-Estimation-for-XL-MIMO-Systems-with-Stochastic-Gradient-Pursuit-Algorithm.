@@ -25,5 +25,6 @@ this scenario, the proposed schemes continue to outperform the existing ones.
 
 # License and Referencing
 If you in any way use this code for research that results in publications, please cite our original article listed above ([1]).
+
 [1] Hao Lei, Jiayi Zhang, Zhe Wang, Bo Ai, and Derrick Wing Kwan Ng, “Hybrid-Field Channel Estimation for XL-MIMO Systems with Stochastic Gradient Pursuit Algorithm”, 
   IEEE Transactions on Signal Processing, to appear, 2024.
